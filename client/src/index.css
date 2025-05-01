@@ -98,11 +98,11 @@ html {
   animation: slideUp 0.5s ease-out;
 }
 
-.red-label {
+.blue-label {
   position: fixed;
   top: 15px;
   right: 15px;
-  background-color: #e53e3e;
+  background-color: #3182ce;
   color: white;
   padding: 4px 12px;
   border-radius: 4px;
