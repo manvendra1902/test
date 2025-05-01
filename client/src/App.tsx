@@ -22,6 +22,7 @@ function App() {
       <ThemeProvider defaultTheme="light" attribute="class">
         <TooltipProvider>
           <Toaster />
+          <div className="red-label">BETA</div>
           <Router />
         </TooltipProvider>
       </ThemeProvider>
